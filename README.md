@@ -1,6 +1,6 @@
 # Crisly D. Dela Cruz
 
-**`Freelancer (Dekstop App, Web App, Mobile App Developer/Graphic Editor)`**
+**`Freelancer (Developer/Graphic Editor)`**
 
 I'm an indie developer with a bachelor's degree in Information Technology, graduated from Tarlac Agricultural University with honors. I create personalized projects for my clients one step at a time. Most of my coding projects are built from scratch. I use Reuse Oriented Model for Software Development from conceptualization, data gathering, and coding/design implementation to solving real-life problems.
 
