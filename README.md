@@ -28,7 +28,7 @@ I'm an indie developer with a bachelor's degree in Information Technology, gradu
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <br />
-
+#
 
 <details>
  <summary><h3>👨‍💻 Crisly's Coding Journey</h3></summary>
