@@ -32,4 +32,5 @@ From conceptualization and data gathering to coding, design implementation, and 
 
 <details>
  <summary><h3>👨‍💻 Crisly's Coding Journey</h3></summary>
-   Journey Desc.
+    
+</details>
