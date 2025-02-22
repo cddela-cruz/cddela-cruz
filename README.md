@@ -1,8 +1,10 @@
 # Crisly D. Dela Cruz
 
-**`Freelancer (Developer/Graphic Editor)`**
+**`Freelancer Software Engineer`**
 
-I'm an indie developer with a bachelor's degree in Information Technology. I create personalized projects for my clients one step at a time. Most of my coding projects are built from scratch. I use Reuse Oriented Model for Software Development from conceptualization, data gathering, and coding/design implementation to solving real-life problems.
+I'm an indie developer with a strong focus on crafting personalized solutions for my clients. With patience and precision, I build most of my projects from scratch, ensuring high-quality, tailored results. I follow the Reuse-Oriented Software Development Model, integrating existing components efficiently while maintaining originality.
+
+From conceptualization and data gathering to coding, design implementation, and real-world problem-solving, I take a structured approach to software development. My goal is to create impactful and scalable solutions that meet diverse needs.
 
 ---
 
